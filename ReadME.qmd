@@ -1,6 +1,6 @@
 ---
 title: "PythonFinalProject"
-format: html
+format: gfm
 ---
 
 ## Introduction/Dictionary
