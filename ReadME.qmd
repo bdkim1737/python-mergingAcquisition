@@ -166,4 +166,4 @@ plt.xticks(rotation=20, ha="right")
 plt.show()
 ```
 
-Conclusion: In tech M&A over the last few years, whether a target is public or private doesn't appear to meaningfully move the price acquirers pay.
+Conclusion: In tech Merging & Acquisition over the last few years, whether a target is public or private doesn't appear to meaningfully move the price acquirers pay.
